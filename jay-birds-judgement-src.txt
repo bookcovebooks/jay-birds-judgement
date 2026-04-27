@@ -14,7 +14,7 @@ f=illus-fpc.png
 a=cowboy bucked off a bronco
 .il-
 
-.ma titlepage_v2 "Jay Bird’s Judgement" "W. C. Tuttle" "Author of “How Paradise Lost,” “For the Parson of Paradise,” etc."
+.ma titlepage_v2 "Jay Bird’s Judgement" "W. C. Tuttle" "“How Paradise Lost,” “For the Parson of Paradise,” etc."
 
 .po
 “You may sing of brave sailors
